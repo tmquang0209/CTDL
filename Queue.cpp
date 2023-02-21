@@ -44,7 +44,7 @@ void Queue<T>::delQueue()
 {
     if (isEmpty())
     {
-        cout << "List is empty" << endl;
+        cout << "List is empty." << endl;
         return;
     }
 
