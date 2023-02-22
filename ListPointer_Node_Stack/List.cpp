@@ -77,6 +77,7 @@ void List<T>::pushBack(T newItem)
 {
     Node *newNode = new Node;
     newNode->item = newItem;
+    
     Node *prev = find(size);
 
     prev->next = newNode;
