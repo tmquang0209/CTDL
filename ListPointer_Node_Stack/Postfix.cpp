@@ -120,7 +120,7 @@ void calc()
 {
     Stack<int> s;
     string str;
-    str = "53*2+";
+    str = "521--314++*";
 
     int num1, num2, res;
 

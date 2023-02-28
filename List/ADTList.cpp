@@ -117,7 +117,6 @@ public:
         {
             if (index >= 0 && index < length)
             {
-
                 for (int i = index; i < length - 1; i++)
                 {
                     arr[i] = arr[i + 1];
